@@ -1,0 +1,10 @@
+.logo{
+    margin-right: auto;
+}
+nav{
+a{
+    text-decoration: none;
+    &:hover {
+        text-decoration:underline;}
+}
+}
